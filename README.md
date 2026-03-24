@@ -1,0 +1,2 @@
+# Aleatorio
+Valor armazenado
